@@ -1,0 +1,69 @@
+.kuang{
+    line-height: 50px;
+    background-color:#5fc0cd;
+    color: aliceblue;
+    text-align: center;
+}
+.gb{
+    margin-left: 3%;
+    margin-right: 3%;
+    float: left;
+    
+}
+.zc{
+    margin-right:3%;
+    margin-left: 3%;
+    float: right;
+}
+.img1{
+    width: 13.5px;
+    height:20.5px;
+    margin: 10px;
+}
+.img2{
+    width: 14.5px;
+    height: 21.5px;
+    margin: 10px;
+}
+.ym{
+    font-size: 14px;
+    height: 20px;
+    width: 70%;
+}
+.kj{
+    font-size: 14px;
+    height: 20px;
+    width: 70%;
+}
+.dl2{
+    line-height: 50px;
+    color: aliceblue;
+    background-color: #5fc0cd;
+    text-align: center;
+}
+p{
+    color: #5fc0cd;
+}
+body{
+    margin: 0;
+    background-color:#eff0f4;
+}
+.phone{
+    background-color: #ffffff;
+    margin-bottom: 10px;
+}
+.password{
+    background-color: #ffffff;
+}
+input{
+    border: none;
+    border-left: 1px solid #bababa;
+    padding-left: 20px;
+    outline:medium;
+}
+::-webkit-input-placeholder{/*webkit browsers*/
+    color:#bababa;
+}
+img,input{
+    vertical-align: middle;
+}
